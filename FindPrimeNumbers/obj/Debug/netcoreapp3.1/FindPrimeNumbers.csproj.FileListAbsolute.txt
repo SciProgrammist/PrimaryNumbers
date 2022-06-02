@@ -1,0 +1,14 @@
+C:\Users\danie\Downloads\WorkingOn_\FindPrimeNumbers\bin\Debug\netcoreapp3.1\FindPrimeNumbers.exe
+C:\Users\danie\Downloads\WorkingOn_\FindPrimeNumbers\bin\Debug\netcoreapp3.1\FindPrimeNumbers.deps.json
+C:\Users\danie\Downloads\WorkingOn_\FindPrimeNumbers\bin\Debug\netcoreapp3.1\FindPrimeNumbers.runtimeconfig.json
+C:\Users\danie\Downloads\WorkingOn_\FindPrimeNumbers\bin\Debug\netcoreapp3.1\FindPrimeNumbers.runtimeconfig.dev.json
+C:\Users\danie\Downloads\WorkingOn_\FindPrimeNumbers\bin\Debug\netcoreapp3.1\FindPrimeNumbers.dll
+C:\Users\danie\Downloads\WorkingOn_\FindPrimeNumbers\bin\Debug\netcoreapp3.1\FindPrimeNumbers.pdb
+C:\Users\danie\Downloads\WorkingOn_\FindPrimeNumbers\obj\Debug\netcoreapp3.1\FindPrimeNumbers.csproj.AssemblyReference.cache
+C:\Users\danie\Downloads\WorkingOn_\FindPrimeNumbers\obj\Debug\netcoreapp3.1\FindPrimeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Downloads\WorkingOn_\FindPrimeNumbers\obj\Debug\netcoreapp3.1\FindPrimeNumbers.AssemblyInfoInputs.cache
+C:\Users\danie\Downloads\WorkingOn_\FindPrimeNumbers\obj\Debug\netcoreapp3.1\FindPrimeNumbers.AssemblyInfo.cs
+C:\Users\danie\Downloads\WorkingOn_\FindPrimeNumbers\obj\Debug\netcoreapp3.1\FindPrimeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\danie\Downloads\WorkingOn_\FindPrimeNumbers\obj\Debug\netcoreapp3.1\FindPrimeNumbers.dll
+C:\Users\danie\Downloads\WorkingOn_\FindPrimeNumbers\obj\Debug\netcoreapp3.1\FindPrimeNumbers.pdb
+C:\Users\danie\Downloads\WorkingOn_\FindPrimeNumbers\obj\Debug\netcoreapp3.1\FindPrimeNumbers.genruntimeconfig.cache
